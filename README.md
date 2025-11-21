@@ -1,4 +1,4 @@
-# JStack's Refresh Token (API)
+# JStack's Refresh Token (Backend)
 
 An API implementation for secure authentication using JWT with refresh token rotation build with Fastify and TypeScript.
 
