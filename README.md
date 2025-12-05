@@ -42,7 +42,7 @@ Before installing and running this project, make sure you have the following:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/thiagocrux/jstack-refresh-token-api.git
+git clone https://github.com/thiagocrux/jstack-refresh-token-backend.git
 ```
 
 2. Browse to the project folder:
